@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\bin\Debug\Sayaç.exe.config
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\bin\Debug\Sayaç.exe
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\bin\Debug\Sayaç.pdb
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.Form1.resources
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.exe
+C:\Users\user\Desktop\10-M\Sayaç\Sayaç\obj\Debug\Sayaç.pdb
